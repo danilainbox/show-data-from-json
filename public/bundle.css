@@ -1,0 +1,8 @@
+html {
+  height: 100%;
+}
+.body {
+  font-size: 14px;
+  font-family: Roboto, Arial;
+  min-height: 100%;
+}
